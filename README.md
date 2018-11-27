@@ -1,5 +1,4 @@
-# Python
-kumpulan program python
+# Python Kamus Besar Bahasa Indonesia
 
-1. Kamus.py 
-    Credit to https://github.com/muzavan buat kamus.json nya. Program ini memakai get_close_matches dari difflib untuk menemukan kata dalam kamus yang memiliki kemiripan dengan input    kata.
+Credit to https://github.com/muzavan buat kamus.json nya. 
+Program ini memakai get_close_matches dari difflib untuk menemukan kata dalam kamus yang memiliki kemiripan dengan input    kata.
